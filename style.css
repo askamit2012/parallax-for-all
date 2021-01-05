@@ -75,11 +75,11 @@ body {
     color: #000;
 }
 
-@media(max-width:568px) {
+/* @media(max-width:568px) {
 
     .pimg,
     .pimg2,
     .pimg3 {
         background-attachment: scroll;
     }
-}
+} */
